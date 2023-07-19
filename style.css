@@ -1,0 +1,45 @@
+/* body
+{
+    background-image: url(./Images/Background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+body{
+    background-image: linear-gradient(orange,white,green);
+}
+
+h1
+{
+    text-align: center;
+}
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+.width-x
+{
+    width: 75%;
+}
+.width-s
+{
+    max-width: 200px;
+    max-height: 500px;
+}
+.flex
+{
+    display: flex;
+    
+}
+.margin
+{
+    margin-right: 10px;
+}
+
+li
+{
+   padding-top:5px;
+}
